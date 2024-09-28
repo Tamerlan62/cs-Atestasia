@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\bin\Debug\net8.0\c# atestasia.exe
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\bin\Debug\net8.0\c# atestasia.deps.json
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\bin\Debug\net8.0\c# atestasia.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\bin\Debug\net8.0\c# atestasia.dll
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\bin\Debug\net8.0\c# atestasia.pdb
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.dll
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\refint\c# atestasia.dll
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.pdb
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\c# atestasia.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\c# atestasia\task_1\obj\Debug\net8.0\ref\c# atestasia.dll

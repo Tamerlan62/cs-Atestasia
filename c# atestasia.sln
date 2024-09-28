@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c# atestasia", "task_1\c# atestasia.csproj", "{97184A64-7023-4923-9533-0B42EBC404D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97184A64-7023-4923-9533-0B42EBC404D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97184A64-7023-4923-9533-0B42EBC404D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97184A64-7023-4923-9533-0B42EBC404D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97184A64-7023-4923-9533-0B42EBC404D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2923914D-2FC5-4B74-A55C-A72FCB58AAAA}
+	EndGlobalSection
+EndGlobal
